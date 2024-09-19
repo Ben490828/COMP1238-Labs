@@ -1,18 +1,19 @@
-# NRC
-123456789
-$
-# Title
-👌
-! hi
-@ hi
-# hi
-$ hi
-% hi
-^ hi
-& hi
-* List using *
-* https://www.youtube.com/
-* [Youtube](https://www.youtube.com/)
-+ List using +
-
+# Number Row Characters
+- ! Exclamation Mark
+- @ At
+- \# Hashtag
+- $ Dollar Sign
+- % Percentage
+- ^ Up Arrow
+- & And
+- * Star
+- ( Open Bracket
+- ) Close Bracket
+# Links
+-  [Youtube](https://www.youtube.com/)
+-  [BrightSpace](https://learn.georgebrown.ca/d2l/home)
+# Experiments
 :thumbsup:
+👌
+* Bullet point using \*
++ Bullet point using +
