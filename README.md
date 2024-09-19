@@ -6,7 +6,7 @@
 - % Percentage
 - ^ Up Arrow
 - & And
-- * Star
+- \* Star
 - ( Open Bracket
 - ) Close Bracket
 # Links
@@ -17,3 +17,4 @@
 👌
 * Bullet point using \*
 + Bullet point using +
+- # Title Area as a bullet point
