@@ -12,6 +12,8 @@
 # Links
 -  [Youtube](https://www.youtube.com/)
 -  [BrightSpace](https://learn.georgebrown.ca/d2l/home)
+
+-   [CLI commands](docs/cli.md)
 # Experiments
 :thumbsup:
 👌
