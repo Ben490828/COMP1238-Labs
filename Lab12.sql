@@ -63,4 +63,35 @@ ORder by due_date;
 ----------------------------------------------------------------------------------
 SELECT concat(course_name,' - ', semester)
 FROM courses;
+----
+SELECT course_id, course_name, lab_time
+FROM courses
+WHERE lab_time LIKE 'Fri%';
+----
+SELECT *
+FROM assignments
+WHERE due_date > date();
+----
+SELECT status, count(*)
+From assignments
+GROUP BY status;
+---------------------
+SELECT length(course_name)
+FROM courses
+ORDER BY length(course_name);
 
+SELECT course_name
+FROM courses
+WHERE length(course_name) = 38;
+---------------------
+SELECT upper(course_name)
+FROM courses;
+---------------------
+SELECT title
+FROM assignments
+WHERE due_date LIKE '2024-09%'
+	OR due_date LIKE '2025-09%';
+---------------------
+SELECT *
+FROM assignments
+WHERE due_date ISNULL
